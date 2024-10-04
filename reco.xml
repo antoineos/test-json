@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037175</Time>
+    <trackId>210741668</trackId>
+    <trackArtistName>Butcher Brown</trackArtistName>
+    <trackAlbumTitle>Solar Music</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Jazz</trackMainGenre>
+    <Time Processed (UTC)>1728037177477</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037168</Time>
+    <trackId>284128280</trackId>
+    <trackArtistName>Post Malone</trackArtistName>
+    <trackAlbumTitle>F-1 Trillion</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Country</trackMainGenre>
+    <Time Processed (UTC)>1728037184079</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037167</Time>
+    <trackId>99162972</trackId>
+    <trackArtistName>The Killers</trackArtistName>
+    <trackAlbumTitle>Hot Fuss</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037169225</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037165</Time>
+    <trackId>151352069</trackId>
+    <trackArtistName>The Black Eyed Peas</trackArtistName>
+    <trackAlbumTitle>Elephunk</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>R&amp;B</trackMainGenre>
+    <Time Processed (UTC)>1728037184079</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037165</Time>
+    <trackId>781290</trackId>
+    <trackArtistName>Tears For Fears</trackArtistName>
+    <trackAlbumTitle>The Hurting</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Pop</trackMainGenre>
+    <Time Processed (UTC)>1728037170112</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037155</Time>
+    <trackId>259259255</trackId>
+    <trackArtistName>David Guetta</trackArtistName>
+    <trackAlbumTitle>I Don&apos;t Wanna Wait</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId>3615138</playlistId>
+    <trackMainGenre>Dance</trackMainGenre>
+    <Time Processed (UTC)>1728037166714</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037154</Time>
+    <trackId>64859846</trackId>
+    <trackArtistName>TOOL</trackArtistName>
+    <trackAlbumTitle>Ænima</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037157452</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037152</Time>
+    <trackId>14790215</trackId>
+    <trackArtistName>Lamb of God</trackArtistName>
+    <trackAlbumTitle>Music from the film As the Palaces Burn</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Bandes originales de films</trackMainGenre>
+    <Time Processed (UTC)>1728037168235</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037148</Time>
+    <trackId>48351888</trackId>
+    <trackArtistName>Cesária Evora</trackArtistName>
+    <trackAlbumTitle>Miss Perfumado</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>World music</trackMainGenre>
+    <Time Processed (UTC)>1728037165222</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037147</Time>
+    <trackId>252300545</trackId>
+    <trackArtistName>Justice</trackArtistName>
+    <trackAlbumTitle>Hyperdrama</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Électronique</trackMainGenre>
+    <Time Processed (UTC)>1728037156166</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037144</Time>
+    <trackId>208401139</trackId>
+    <trackArtistName>Tessa Souter</trackArtistName>
+    <trackAlbumTitle>Night of Key Largo</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Jazz vocal</trackMainGenre>
+    <Time Processed (UTC)>1728037147512</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037143</Time>
+    <trackId>263560015</trackId>
+    <trackArtistName>The Allergies</trackArtistName>
+    <trackAlbumTitle>One Time</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Hip-Hop/Rap</trackMainGenre>
+    <Time Processed (UTC)>1728037151212</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037141</Time>
+    <trackId>30369411</trackId>
+    <trackArtistName>The Beatles</trackArtistName>
+    <trackAlbumTitle>The Beatles (Remastered)</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037143532</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037141</Time>
+    <trackId>781289</trackId>
+    <trackArtistName>Tears For Fears</trackArtistName>
+    <trackAlbumTitle>The Hurting</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Pop</trackMainGenre>
+    <Time Processed (UTC)>1728037170113</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037140</Time>
+    <trackId>56934368</trackId>
+    <trackArtistName>Alice Coltrane</trackArtistName>
+    <trackAlbumTitle>Journey in Satchidananda</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Jazz</trackMainGenre>
+    <Time Processed (UTC)>1728037158297</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037139</Time>
+    <trackId>47683839</trackId>
+    <trackArtistName>Pink Floyd</trackArtistName>
+    <trackAlbumTitle>The Wall (Remastered 2011 Version)</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037185775</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037139</Time>
+    <trackId>97742984</trackId>
+    <trackArtistName>Ellie Goulding</trackArtistName>
+    <trackAlbumTitle>Brightest Blue</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Pop</trackMainGenre>
+    <Time Processed (UTC)>1728037151316</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037139</Time>
+    <trackId>199903465</trackId>
+    <trackArtistName>Fausto Mesolella</trackArtistName>
+    <trackAlbumTitle>Suonerò fino a farti fiorire</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId>23580169</playlistId>
+    <trackMainGenre>World music</trackMainGenre>
+    <Time Processed (UTC)>1728037172656</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037139</Time>
+    <trackId>215108914</trackId>
+    <trackArtistName>Wassu</trackArtistName>
+    <trackAlbumTitle>Nocturnal 010</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Dance</trackMainGenre>
+    <Time Processed (UTC)>1728037154010</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037138</Time>
+    <trackId>282559561</trackId>
+    <trackArtistName>The Smile</trackArtistName>
+    <trackAlbumTitle>Cutouts</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Alternative &amp; Indie</trackMainGenre>
+    <Time Processed (UTC)>1728037168183</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037137</Time>
+    <trackId>34043632</trackId>
+    <trackArtistName>Jacintha</trackArtistName>
+    <trackAlbumTitle>Here&apos;s to Ben (A Vocal Tribute to Ben Webster)</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId>23580169</playlistId>
+    <trackMainGenre>Jazz</trackMainGenre>
+    <Time Processed (UTC)>1728037172655</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037136</Time>
+    <trackId>64405608</trackId>
+    <trackArtistName>Lana Del Rey</trackArtistName>
+    <trackAlbumTitle>Norman Fucking Rockwell!</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId>21659793</playlistId>
+    <trackMainGenre>Alternative &amp; Indie</trackMainGenre>
+    <Time Processed (UTC)>1728037137813</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037135</Time>
+    <trackId>44622413</trackId>
+    <trackArtistName>Kekra</trackArtistName>
+    <trackAlbumTitle>Vréel 3</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Hip-Hop/Rap</trackMainGenre>
+    <Time Processed (UTC)>1728037143115</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037135</Time>
+    <trackId>48351887</trackId>
+    <trackArtistName>Cesária Evora</trackArtistName>
+    <trackAlbumTitle>Miss Perfumado</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>World music</trackMainGenre>
+    <Time Processed (UTC)>1728037165223</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037133</Time>
+    <trackId>127039815</trackId>
+    <trackArtistName>Coldplay</trackArtistName>
+    <trackAlbumTitle>Music Of The Spheres</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Musica alternativa e indie</trackMainGenre>
+    <Time Processed (UTC)>1728037193596</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037133</Time>
+    <trackId>267434223</trackId>
+    <trackArtistName>Shenseea</trackArtistName>
+    <trackAlbumTitle>Never Gets Late Here</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Reggae</trackMainGenre>
+    <Time Processed (UTC)>1728037139368</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037133</Time>
+    <trackId>216729315</trackId>
+    <trackArtistName>Kalandra</trackArtistName>
+    <trackAlbumTitle>Kingdom Two Crowns: Norse Lands Soundtrack (Extended)</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Divers</trackMainGenre>
+    <Time Processed (UTC)>1728037146173</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037132</Time>
+    <trackId>271255316</trackId>
+    <trackArtistName>Stephan Noel</trackArtistName>
+    <trackAlbumTitle>To gossip</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId>24516915</playlistId>
+    <trackMainGenre>Humour</trackMainGenre>
+    <Time Processed (UTC)>1728037167368</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037132</Time>
+    <trackId>257039872</trackId>
+    <trackArtistName>Kevin Mc</trackArtistName>
+    <trackAlbumTitle>A Última</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId>24406745</playlistId>
+    <trackMainGenre>World music</trackMainGenre>
+    <Time Processed (UTC)>1728037171601</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037132</Time>
+    <trackId>99543871</trackId>
+    <trackArtistName>Linkin Park</trackArtistName>
+    <trackAlbumTitle>Hybrid Theory  (20th Anniversary Edition)</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Alternativa &amp; Indie</trackMainGenre>
+    <Time Processed (UTC)>1728037163598</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037131</Time>
+    <trackId>47061935</trackId>
+    <trackArtistName>The The</trackArtistName>
+    <trackAlbumTitle>Dusk</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Pop</trackMainGenre>
+    <Time Processed (UTC)>1728037157676</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037131</Time>
+    <trackId>272266430</trackId>
+    <trackArtistName>Coldplay</trackArtistName>
+    <trackAlbumTitle>Moon Music</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Alternative &amp; Indie</trackMainGenre>
+    <Time Processed (UTC)>1728037179525</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037130</Time>
+    <trackId>97934812</trackId>
+    <trackArtistName>Maman Tania</trackArtistName>
+    <trackAlbumTitle>Appelez-moi miracle</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId>11729925</playlistId>
+    <trackMainGenre>World</trackMainGenre>
+    <Time Processed (UTC)>1728037142441</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037130</Time>
+    <trackId>255662486</trackId>
+    <trackArtistName>Olga Scheps</trackArtistName>
+    <trackAlbumTitle>Chopin Nocturnes</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Klassik</trackMainGenre>
+    <Time Processed (UTC)>1728037186575</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037129</Time>
+    <trackId>70276751</trackId>
+    <trackArtistName>Chantal Chamberland</trackArtistName>
+    <trackAlbumTitle>This is Our Time</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId>23580169</playlistId>
+    <trackMainGenre>Jazz</trackMainGenre>
+    <Time Processed (UTC)>1728037172655</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037129</Time>
+    <trackId>760650</trackId>
+    <trackArtistName>Eberhard Weber</trackArtistName>
+    <trackAlbumTitle>Pendulum</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Jazz</trackMainGenre>
+    <Time Processed (UTC)>1728037140714</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037128</Time>
+    <trackId>286795293</trackId>
+    <trackArtistName>Fervents</trackArtistName>
+    <trackAlbumTitle>Plastic Snake Factory</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId>1613258</playlistId>
+    <trackMainGenre>Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037157092</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037128</Time>
+    <trackId>8641800</trackId>
+    <trackArtistName>T. Rex</trackArtistName>
+    <trackAlbumTitle>Electric Warrior</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037189623</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037128</Time>
+    <trackId>226839383</trackId>
+    <trackArtistName>Archive</trackArtistName>
+    <trackAlbumTitle>Call To Arms &amp; Angels (Deluxe Edition)</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Alternatif et Indé</trackMainGenre>
+    <Time Processed (UTC)>1728037166355</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037127</Time>
+    <trackId>275606420</trackId>
+    <trackArtistName>Bay Brass</trackArtistName>
+    <trackAlbumTitle>Grace: The Music of Michael Tilson Thomas</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Classical</trackMainGenre>
+    <Time Processed (UTC)>1728037187717</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037127</Time>
+    <trackId>246598621</trackId>
+    <trackArtistName>Horskh</trackArtistName>
+    <trackAlbumTitle>BODY</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId>24220760</playlistId>
+    <trackMainGenre>Metal</trackMainGenre>
+    <Time Processed (UTC)>1728037130244</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037126</Time>
+    <trackId>290571226</trackId>
+    <trackArtistName>Jimmy Reed</trackArtistName>
+    <trackAlbumTitle>I’m Jimmy Reed (Remastered 2024)</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Blues</trackMainGenre>
+    <Time Processed (UTC)>1728037170518</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037125</Time>
+    <trackId>272831563</trackId>
+    <trackArtistName>Stryper</trackArtistName>
+    <trackAlbumTitle>When We Were Kings</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Metal</trackMainGenre>
+    <Time Processed (UTC)>1728037185843</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037125</Time>
+    <trackId>9157985</trackId>
+    <trackArtistName>The Animals</trackArtistName>
+    <trackAlbumTitle>A&apos;s B&apos;s &amp; EP&apos;s</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037186103</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037125</Time>
+    <trackId>271255317</trackId>
+    <trackArtistName>Stephan Noel</trackArtistName>
+    <trackAlbumTitle>To gossip</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId>24509684</playlistId>
+    <trackMainGenre>Humour</trackMainGenre>
+    <Time Processed (UTC)>1728037155754</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037125</Time>
+    <trackId>86942156</trackId>
+    <trackArtistName>In Flames</trackArtistName>
+    <trackAlbumTitle>The Jester Race (Black Ash-Inheritance Version)</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037152133</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037125</Time>
+    <trackId>255662488</trackId>
+    <trackArtistName>Olga Scheps</trackArtistName>
+    <trackAlbumTitle>Chopin Nocturnes</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Klassik</trackMainGenre>
+    <Time Processed (UTC)>1728037186575</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037124</Time>
+    <trackId>15937686</trackId>
+    <trackArtistName>Max Richter</trackArtistName>
+    <trackAlbumTitle>Recomposed By Max Richter: Vivaldi, The Four Seasons (2012)</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId>24387683</playlistId>
+    <trackMainGenre>Klassiek</trackMainGenre>
+    <Time Processed (UTC)>1728037143085</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037124</Time>
+    <trackId>273793219</trackId>
+    <trackArtistName>20syl</trackArtistName>
+    <trackAlbumTitle>Sula Bassana</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Jazz</trackMainGenre>
+    <Time Processed (UTC)>1728037185306</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037123</Time>
+    <trackId>764166</trackId>
+    <trackArtistName>The Beastie Boys</trackArtistName>
+    <trackAlbumTitle>Licensed To Ill</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Hip-Hop/Rap</trackMainGenre>
+    <Time Processed (UTC)>1728037185750</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037122</Time>
+    <trackId>44878016</trackId>
+    <trackArtistName>Steve Waring</trackArtistName>
+    <trackAlbumTitle>La Baleine Bleue</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Enfants</trackMainGenre>
+    <Time Processed (UTC)>1728037181357</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037122</Time>
+    <trackId>46176205</trackId>
+    <trackArtistName>Grace Jones</trackArtistName>
+    <trackAlbumTitle>Hôtel Costes</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Electrónica</trackMainGenre>
+    <Time Processed (UTC)>1728037182413</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037121</Time>
+    <trackId>7722968</trackId>
+    <trackArtistName>Jimi Hendrix</trackArtistName>
+    <trackAlbumTitle>People, Hell &amp; Angels</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId>24759272</playlistId>
+    <trackMainGenre>Pop</trackMainGenre>
+    <Time Processed (UTC)>1728037183770</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037121</Time>
+    <trackId>291118353</trackId>
+    <trackArtistName>DaBaby</trackArtistName>
+    <trackAlbumTitle>HOW TF IS THIS A MIXTAPE?</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Hip-Hop/Rap</trackMainGenre>
+    <Time Processed (UTC)>1728037182614</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037121</Time>
+    <trackId>121923132</trackId>
+    <trackArtistName>twenty one pilots</trackArtistName>
+    <trackAlbumTitle>Scaled And Icy</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Alternatif et Indé</trackMainGenre>
+    <Time Processed (UTC)>1728037183817</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037121</Time>
+    <trackId>246784313</trackId>
+    <trackArtistName>Jennifer Lopez</trackArtistName>
+    <trackAlbumTitle>This Is Me...Now</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Pop</trackMainGenre>
+    <Time Processed (UTC)>1728037127683</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037121</Time>
+    <trackId>36708936</trackId>
+    <trackArtistName>Sarah Buxton</trackArtistName>
+    <trackAlbumTitle>I Need A Hero (Music Inspired by the Motion Picture Footloose)</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Country</trackMainGenre>
+    <Time Processed (UTC)>1728037132097</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037121</Time>
+    <trackId>280683084</trackId>
+    <trackArtistName>Jack White</trackArtistName>
+    <trackAlbumTitle>No Name</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037144960</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037121</Time>
+    <trackId>242565976</trackId>
+    <trackArtistName>Sum 41</trackArtistName>
+    <trackAlbumTitle>Heaven :x: Hell</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Alternatif et Indé</trackMainGenre>
+    <Time Processed (UTC)>1728037140956</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037121</Time>
+    <trackId>40945</trackId>
+    <trackArtistName>The Byrds</trackArtistName>
+    <trackAlbumTitle>Dr. Byrds And Mr. Hyde</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Pop/Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037181513</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037120</Time>
+    <trackId>9140026</trackId>
+    <trackArtistName>Daft Punk</trackArtistName>
+    <trackAlbumTitle>Random Access Memories</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId>10850678</playlistId>
+    <trackMainGenre>Electronic</trackMainGenre>
+    <Time Processed (UTC)>1728037123653</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037120</Time>
+    <trackId>188866231</trackId>
+    <trackArtistName>Cory Hanson</trackArtistName>
+    <trackAlbumTitle>Western Cum</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037180866</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037119.869</Time>
+    <trackId>33169349</trackId>
+    <trackArtistName>Titãs</trackArtistName>
+    <trackAlbumTitle>Jesus Não Tem Dentes No País Dos Banguelas</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037120263</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037119</Time>
+    <trackId>215706169</trackId>
+    <trackArtistName>Wassu</trackArtistName>
+    <trackAlbumTitle>Selected Remixes Vol. 7</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Electronic</trackMainGenre>
+    <Time Processed (UTC)>1728037153946</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037119</Time>
+    <trackId>174578648</trackId>
+    <trackArtistName>In Flames</trackArtistName>
+    <trackAlbumTitle>Foregone</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Metal</trackMainGenre>
+    <Time Processed (UTC)>1728037128070</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037118</Time>
+    <trackId>19640485</trackId>
+    <trackArtistName>Frank Sinatra</trackArtistName>
+    <trackAlbumTitle>In The Wee Small Hours</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Jazz vocal</trackMainGenre>
+    <Time Processed (UTC)>1728037179712</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037118</Time>
+    <trackId>12226368</trackId>
+    <trackArtistName>The Supermen Lovers</trackArtistName>
+    <trackAlbumTitle>The Player</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId>1839503</playlistId>
+    <trackMainGenre>House</trackMainGenre>
+    <Time Processed (UTC)>1728037178224</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037118</Time>
+    <trackId>3859234</trackId>
+    <trackArtistName>Avril Lavigne</trackArtistName>
+    <trackAlbumTitle>The Best Damn Thing (Expanded Edition)</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Pop/Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037122186</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037118</Time>
+    <trackId>50668582</trackId>
+    <trackArtistName>Michel Sardou</trackArtistName>
+    <trackAlbumTitle>Les grands moments - Best Of</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Chanson française</trackMainGenre>
+    <Time Processed (UTC)>1728037147451</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037118</Time>
+    <trackId>246042439</trackId>
+    <trackArtistName>Nengo Flow</trackArtistName>
+    <trackAlbumTitle>RealG4Life Vol. 4</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>World music</trackMainGenre>
+    <Time Processed (UTC)>1728037164106</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037117</Time>
+    <trackId>73043983</trackId>
+    <trackArtistName>Steel Pulse</trackArtistName>
+    <trackAlbumTitle>Handsworth Revolution (Deluxe Edition)</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Reggae</trackMainGenre>
+    <Time Processed (UTC)>1728037177934</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037117</Time>
+    <trackId>282559563</trackId>
+    <trackArtistName>The Smile</trackArtistName>
+    <trackAlbumTitle>Cutouts</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Alternatif et Indé</trackMainGenre>
+    <Time Processed (UTC)>1728037178432</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037117</Time>
+    <trackId>278496595</trackId>
+    <trackArtistName>Jimin</trackArtistName>
+    <trackAlbumTitle>Who (Remixes)</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId>24382512</playlistId>
+    <trackMainGenre>K-Pop</trackMainGenre>
+    <Time Processed (UTC)>1728037178396</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037117</Time>
+    <trackId>82821430</trackId>
+    <trackArtistName>Mandatory Possession</trackArtistName>
+    <trackAlbumTitle>Mandatory Possession</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId>12942799</playlistId>
+    <trackMainGenre>Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037177719</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037117</Time>
+    <trackId>22109703</trackId>
+    <trackArtistName>Raj Singh(Raj Ranjodh)</trackArtistName>
+    <trackAlbumTitle>London</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Musique indienne</trackMainGenre>
+    <Time Processed (UTC)>1728037123602</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037116</Time>
+    <trackId>10862887</trackId>
+    <trackArtistName>Gordan Nikolic</trackArtistName>
+    <trackAlbumTitle>Mozart, W.A.: Serenade No. 7, K. 250, Haffner</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Klassiek</trackMainGenre>
+    <Time Processed (UTC)>1728037149623</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037116</Time>
+    <trackId>278496597</trackId>
+    <trackArtistName>Jimin</trackArtistName>
+    <trackAlbumTitle>Who (Remixes)</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId>24383745</playlistId>
+    <trackMainGenre>K-Pop</trackMainGenre>
+    <Time Processed (UTC)>1728037177007</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037116</Time>
+    <trackId>143372318</trackId>
+    <trackArtistName>Jimi Hendrix</trackArtistName>
+    <trackAlbumTitle>Electric Lady Studios: A Jimi Hendrix Vision</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037176809</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037116</Time>
+    <trackId>251753191</trackId>
+    <trackArtistName>Poppy Ackroyd</trackArtistName>
+    <trackAlbumTitle>Pause</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Classical</trackMainGenre>
+    <Time Processed (UTC)>1728037175957</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037115</Time>
+    <trackId>77476168</trackId>
+    <trackArtistName>The Smithereens</trackArtistName>
+    <trackAlbumTitle>Greatest Hits... Revisited</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037138691</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037115</Time>
+    <trackId>3881940</trackId>
+    <trackArtistName>Rainbow</trackArtistName>
+    <trackAlbumTitle>Ritchie Blackmore&apos;s Rainbow</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId>21761410</playlistId>
+    <trackMainGenre>Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037179092</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037115</Time>
+    <trackId>95785754</trackId>
+    <trackArtistName>Metallica</trackArtistName>
+    <trackAlbumTitle>…And Justice for All (Remastered)</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId>23738618</playlistId>
+    <trackMainGenre>Metal</trackMainGenre>
+    <Time Processed (UTC)>1728037118496</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037115</Time>
+    <trackId>273677880</trackId>
+    <trackArtistName>Ptite Soeur</trackArtistName>
+    <trackAlbumTitle>KAYFABE CHIMERA</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId>20234312</playlistId>
+    <trackMainGenre>Hip-Hop/Rap</trackMainGenre>
+    <Time Processed (UTC)>1728037117829</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037114.025</Time>
+    <trackId>273580800</trackId>
+    <trackArtistName>James Blake</trackArtistName>
+    <trackAlbumTitle>Bad Cameo</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Alternatif et Indé</trackMainGenre>
+    <Time Processed (UTC)>1728037114051</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037114</Time>
+    <trackId>10473299</trackId>
+    <trackArtistName>Curtis Mayfield</trackArtistName>
+    <trackAlbumTitle>Back to the World</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Soul</trackMainGenre>
+    <Time Processed (UTC)>1728037127995</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037113</Time>
+    <trackId>106972912</trackId>
+    <trackArtistName>Soul Keita</trackArtistName>
+    <trackAlbumTitle>Democracy (Orginal Mix)</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Électronique</trackMainGenre>
+    <Time Processed (UTC)>1728037153269</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037113</Time>
+    <trackId>68072027</trackId>
+    <trackArtistName>Jean-Jacques Goldman</trackArtistName>
+    <trackAlbumTitle>Chansons pour les pieds</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Chanson française</trackMainGenre>
+    <Time Processed (UTC)>1728037174031</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037113</Time>
+    <trackId>283673249</trackId>
+    <trackArtistName>Falling In Reverse</trackArtistName>
+    <trackAlbumTitle>Popular Monster</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037139512</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037113</Time>
+    <trackId>283673248</trackId>
+    <trackArtistName>Falling In Reverse</trackArtistName>
+    <trackAlbumTitle>Popular Monster</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037139512</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037113</Time>
+    <trackId>258465310</trackId>
+    <trackArtistName>Future</trackArtistName>
+    <trackAlbumTitle>WE DON&apos;T TRUST YOU</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Hip-Hop/Rap</trackMainGenre>
+    <Time Processed (UTC)>1728037174124</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037112</Time>
+    <trackId>60774964</trackId>
+    <trackArtistName>Equilibrium</trackArtistName>
+    <trackAlbumTitle>Armageddon</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId>12644404</playlistId>
+    <trackMainGenre>Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037118715</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037112</Time>
+    <trackId>271169713</trackId>
+    <trackArtistName>Ennio</trackArtistName>
+    <trackAlbumTitle>Schlaraffenland</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Pop</trackMainGenre>
+    <Time Processed (UTC)>1728037172591</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037112</Time>
+    <trackId>283673250</trackId>
+    <trackArtistName>Falling In Reverse</trackArtistName>
+    <trackAlbumTitle>Popular Monster</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037139512</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037112</Time>
+    <trackId>283673252</trackId>
+    <trackArtistName>Falling In Reverse</trackArtistName>
+    <trackAlbumTitle>Popular Monster</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037139512</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037112</Time>
+    <trackId>283673251</trackId>
+    <trackArtistName>Falling In Reverse</trackArtistName>
+    <trackAlbumTitle>Popular Monster</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037139512</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037112</Time>
+    <trackId>227075273</trackId>
+    <trackArtistName>Arnie Roth</trackArtistName>
+    <trackAlbumTitle>Distant Worlds VI: More Music from Final Fantasy</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Classical</trackMainGenre>
+    <Time Processed (UTC)>1728037172856</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037112</Time>
+    <trackId>288138827</trackId>
+    <trackArtistName>Lamond</trackArtistName>
+    <trackAlbumTitle>Set It Off</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId>24457102</playlistId>
+    <trackMainGenre>Hip-Hop/Rap</trackMainGenre>
+    <Time Processed (UTC)>1728037173246</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037111</Time>
+    <trackId>124911314</trackId>
+    <trackArtistName>Al Marconi</trackArtistName>
+    <trackAlbumTitle>Heartstrings</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Classique</trackMainGenre>
+    <Time Processed (UTC)>1728037167216</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037111</Time>
+    <trackId>283673253</trackId>
+    <trackArtistName>Falling In Reverse</trackArtistName>
+    <trackAlbumTitle>Popular Monster</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Rock</trackMainGenre>
+    <Time Processed (UTC)>1728037139512</Time Processed (UTC)>
+  </row>
+  <row>
+    <Event Name>Track Played</Event Name>
+    <Time>1728037110.923</Time>
+    <trackId>126064297</trackId>
+    <trackArtistName>La Reine des chansons pour enfants et bébés</trackArtistName>
+    <trackAlbumTitle>60 Comptines pour Enfants et Bébés</trackAlbumTitle>
+    <trackID></trackID>
+    <playlistId></playlistId>
+    <trackMainGenre>Enfants</trackMainGenre>
+    <Time Processed (UTC)>1728037114507</Time Processed (UTC)>
+  </row>
+</root>
